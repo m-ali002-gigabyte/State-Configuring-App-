@@ -1,0 +1,4 @@
+with python installed
+   streamlit pandas
+without installing python and any code editor
+ winpythondot version 
